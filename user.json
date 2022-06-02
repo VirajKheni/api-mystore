@@ -1,0 +1,19 @@
+{
+    "users":[
+        {
+            "name":"viraj",
+            "email":"viraj@gmail.com",
+            "phno":7863625323
+        },
+        {
+            "name":"abc",
+            "email":"abc@gmail.com",
+            "phno":9836232690
+        },
+        {
+            "name":"pqr",
+            "email":"pqr@gmail.com",
+            "phno":8787653526
+        }
+    ]
+}
